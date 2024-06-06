@@ -1,7 +1,7 @@
 public class SmartTv {
     static boolean Ligada=false;
     static int canal = 1;
-    static int volume = 25;
+    static int volume = 26;
 
     public void mudarCanal (int novoCanal){
         canal = novoCanal;
