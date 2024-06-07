@@ -11,7 +11,7 @@ public static void main(String[] args) {
 		
 		}while(tocando());
 		
-		System.out.println("Alô !!!");
+		System.out.println("Alô !!");
 	}
 	private static boolean tocando() {
 		boolean atendeu = new Random().nextInt(3)==1;
