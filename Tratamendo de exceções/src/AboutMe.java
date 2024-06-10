@@ -32,6 +32,6 @@ public class AboutMe {
         catch (InputMismatchException e) { // caso haja exceções executa o print abaixo
         System.out.println("O campo idade e altura precisam ser numéricos!");}
         finally{
-        System.out.println("Fim");} // idependente de haver exceções, ele irá ser executado
+        System.out.println("Fim!");} // idependente de haver exceções, ele irá ser executado
         }
     }
